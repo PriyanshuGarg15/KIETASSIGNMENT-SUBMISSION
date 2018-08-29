@@ -2,7 +2,7 @@
 The code for test by POSSIST
 
 I am completely new to thing like BlockChain and as I have a web developer profile, I somehow lacks code playing skills.
-I know some but not like pro.
+I know some but not like pro. I have tried my best
 So, 
 1. I have uploaded the code that can be used to insert nodes in the Tree.
 2. The genesis node will be created, if tree is empty or newly created.
